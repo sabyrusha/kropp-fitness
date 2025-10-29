@@ -6,3 +6,5 @@
 
 @import "./component/button.css";
 @import "./component/input.css";
+
+@import "./layout/header.css";
